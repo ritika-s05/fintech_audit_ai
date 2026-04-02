@@ -13,7 +13,7 @@ def answer_question(question: str) -> str:
     try:
         return agent(question)
     
-    except Exxception as e:
+    except Exception as e:
         return f"Error: {str(e)}"
 
 demo = gr.Interface(
