@@ -1,4 +1,3 @@
-```
 ---
 title: Fintech Audit AI
 emoji: 📊
